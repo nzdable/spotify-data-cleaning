@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Data and images
+spotify-data-cleaning/data/
+spotify-data-cleaning/images/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+
+# VSCode settings
+.vscode/
